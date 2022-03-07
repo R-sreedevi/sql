@@ -1,0 +1,1 @@
+create table student(sno number(5),sname varchar2(10),sgroup varchar2(5),maths number(3),physics number(3),computers number(3));
